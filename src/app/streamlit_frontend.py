@@ -19,7 +19,7 @@ This app predicts the probability of a student dropping out based on academic an
 
 def predict_dropout(data):
     # Update URL based on deployment (local/AWS)
-    API_URL = "http://18.216.149.175:80/predict" #  AWS URL
+    API_URL = "http://3.139.61.120:80/predict" #  AWS URL
     
     try:
         response = requests.post(API_URL, json=data)
