@@ -268,6 +268,6 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 
 **Shagufta Pathan**  
 *Data Scientist | Supply Chain & AI Enthusiast*  
-[LinkedIn](https://linkedin.com/in/your-profile) • [Medium](https://medium.com/@your-handle)
+[LinkedIn](www.linkedin.com/in/shaguftapathan) 
 
 ---
