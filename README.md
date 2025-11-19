@@ -25,7 +25,7 @@ This project builds a data-driven solution that predicts dropout risk based on a
 | **Tracking** | MLflow |
 | **API** | FastAPI |
 | **Containerization** | Docker |
-| **Deployment** | AWS Lambda (via ECR + API Gateway) |
+| **Deployment** | AWS ECS |
 | **Optional** | Streamlit (dashboard), Optuna (tuning), SHAP (interpretability) |
 
 ---
@@ -127,6 +127,7 @@ Open [http://localhost:5000](http://localhost:5000) to view logs of parameters, 
 1. Build and run Docker image:
 ```bash
 docker build -t student-dropout-image-test . 
+```
 
 2. Run container:
 ```bash 
@@ -145,7 +146,7 @@ docker push spathands/student-dropout-predictor-project:latest
 
 ---
 
-## ☁️ AWS Lambda Deployment
+## ☁️ AWS Elastic Container Service Deployment
 
 1. Login to AWS account and search for ECS.
 2. Create a new Task Definition and give it a name:
@@ -193,14 +194,13 @@ docker push spathands/student-dropout-predictor-project:ui
 
 ## 🗓️ Roadmap
 
-- [ ] Data ingestion and cleaning  
-- [ ] Baseline model  
-- [ ] MLflow tracking  
-- [ ] FastAPI service  
-- [ ] Docker containerization  
-- [ ] AWS Lambda deployment  
-- [ ] Streamlit dashboard  
-- [ ] CI/CD integration  
+- Data ingestion and cleaning  
+- Baseline model  
+- MLflow tracking  
+- FastAPI service  
+- Docker containerization  
+- AWS ECS deployment  
+- Streamlit dashboard  
 
 ---
 
