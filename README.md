@@ -1,6 +1,6 @@
 # 🎓 Student Dropout Risk Prediction
 
-An end-to-end machine learning project to **predict which students are at risk of dropping out** of high school or college — built using **Pandas, LightGBM, MLflow, FastAPI, Docker, and AWS Lambda**.
+An end-to-end machine learning project to **predict which students are at risk of dropping out** of high school or college — built using **Pandas, LightGBM, MLflow, FastAPI, Docker, and AWS Elastic Container Service**.
 
 ---
 
