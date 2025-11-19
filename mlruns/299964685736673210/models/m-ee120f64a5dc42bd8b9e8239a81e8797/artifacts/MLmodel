@@ -1,0 +1,21 @@
+artifact_path: file:///Users/shagufta/Documents/Projects/Student%20Dropout%20Risk%20Prediction/mlruns/299964685736673210/models/m-ee120f64a5dc42bd8b9e8239a81e8797/artifacts
+flavors:
+  lightgbm:
+    code: null
+    data: model.pkl
+    lgb_version: 4.6.0
+    model_class: lightgbm.sklearn.LGBMClassifier
+  python_function:
+    data: model.pkl
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.lightgbm
+    python_version: 3.12.12
+mlflow_version: 3.5.1
+model_id: m-ee120f64a5dc42bd8b9e8239a81e8797
+model_size_bytes: 950862
+model_uuid: m-ee120f64a5dc42bd8b9e8239a81e8797
+prompts: null
+run_id: 1d3c6074b5b746fb9b35a1caacce718f
+utc_time_created: '2025-11-05 16:51:10.771686'

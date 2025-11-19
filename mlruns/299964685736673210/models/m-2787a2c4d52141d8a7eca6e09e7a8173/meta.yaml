@@ -1,0 +1,10 @@
+artifact_location: file:///Users/shagufta/Documents/Projects/Student%20Dropout%20Risk%20Prediction/mlruns/299964685736673210/models/m-2787a2c4d52141d8a7eca6e09e7a8173/artifacts
+creation_timestamp: 1762361472325
+experiment_id: '299964685736673210'
+last_updated_timestamp: 1762361473666
+model_id: m-2787a2c4d52141d8a7eca6e09e7a8173
+model_type: null
+name: model
+source_run_id: 1d3c6074b5b746fb9b35a1caacce718f
+status: 2
+status_message: null

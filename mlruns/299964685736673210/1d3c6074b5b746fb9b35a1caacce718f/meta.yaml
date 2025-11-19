@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/shagufta/Documents/Projects/Student%20Dropout%20Risk%20Prediction/mlruns/299964685736673210/1d3c6074b5b746fb9b35a1caacce718f/artifacts
+end_time: 1762361473667
+entry_point_name: ''
+experiment_id: '299964685736673210'
+lifecycle_stage: active
+run_id: 1d3c6074b5b746fb9b35a1caacce718f
+run_name: enchanting-sow-725
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762361469765
+status: 3
+tags: []
+user_id: shagufta
