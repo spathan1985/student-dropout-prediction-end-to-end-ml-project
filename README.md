@@ -13,7 +13,9 @@ This project builds a data-driven solution that predicts dropout risk based on a
 ### 🎯 Objectives
 - Predict individual student dropout risk (probability and category).
 - Provide interpretable feature insights for educators.
-- Deploy a lightweight, serverless prediction API to AWS Lambda.
+- Deploy a lightweight, serverless prediction API to AWS ECS.
+- Containerize the app using Docker
+- Build a lightweight frontend using Streamlit and deploy the app on Streamlit Cloud
 
 ---
 
