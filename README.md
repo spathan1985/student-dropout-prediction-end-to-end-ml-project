@@ -2,7 +2,7 @@
 
 An end-to-end machine learning project to **predict which students are at risk of dropping out** of high school or college — built using **Pandas, LightGBM, MLflow, FastAPI, Docker, and AWS Elastic Container Service**.
 
-Access the deployed Streamlit application here: [Student Dropout Predictor](https://student-dropout-prediction-end-to-end-ml-project-y2kpnh457h7jg.streamlit.app/)
+Access the deployed Streamlit application here: [Student Dropout Predictor](https://spathan1985-student-dropout-pre-srcappstreamlit-frontend-oudh7o.streamlit.app)
 ---
 
 ## 📘 Project Overview
